@@ -1,6 +1,4 @@
-Sure, here's the **cleaned-up and fixed version** of your `README.md` with proper formatting, consistent spacing, and corrected backticks in code blocks and sections:
 
----
 
 ```markdown
 # 🦠 COVID-19 Twitter Sentiment Analysis
