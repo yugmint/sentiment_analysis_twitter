@@ -82,9 +82,6 @@ jupyter notebook covid_twitter_sentiment_analysis.ipynb
 ---
 
 
-
----
-
 ## 📬 Contact
 
 **Yugendra Salunke**
