@@ -55,7 +55,7 @@ Textual data was cleaned and normalized using the following NLP techniques:
 - **Positive**  
 - **Negative**
 
-(*Neutral tweets were not labeled in this dataset*)
+(*Neutral and other labels are not being used*)
 
 ---
 
