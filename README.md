@@ -81,9 +81,7 @@ jupyter notebook covid_twitter_sentiment_analysis.ipynb
 
 ---
 
-## 📷 Sample Output
 
-*(Optional: You can include screenshots of plots, word clouds, confusion matrix, etc.)*
 
 ---
 
