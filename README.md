@@ -104,7 +104,3 @@ Thanks to **Kaggle** for the COVID-19 tweet dataset.
 * Expand to multilingual sentiment analysis
 * Deploy using Streamlit or Flask for real-time, interactive analysis
 
-```
-
-
-```
