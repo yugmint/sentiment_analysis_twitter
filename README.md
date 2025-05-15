@@ -1,4 +1,4 @@
-Perfect! Based on the details you provided, here’s a complete, professional `README.md` tailored for your GitHub repository:
+Sure, here's the **cleaned-up and fixed version** of your `README.md` with proper formatting, consistent spacing, and corrected backticks in code blocks and sections:
 
 ---
 
@@ -17,8 +17,8 @@ As part of an initiative for the **Ministry of Health and Family Welfare**, this
 
 ## 📊 Dataset
 
-- **Source**: Kaggle
-- **Size**: 3,798 tweets and 6 features
+- **Source**: Kaggle  
+- **Size**: 3,798 tweets and 6 features  
 - **Nature**: Each tweet is labeled with sentiment (Positive, Negative)
 
 ---
@@ -26,16 +26,17 @@ As part of an initiative for the **Ministry of Health and Family Welfare**, this
 ## 🧹 Preprocessing
 
 Textual data was cleaned and normalized using the following NLP techniques:
-- Stopword removal
-- Lemmatization
+
+- Stopword removal  
+- Lemmatization  
 - Frequency Dictionary-based token analysis
 
 ---
 
 ## 🤖 Model
 
-- **Algorithm**: Logistic Regression
-- **Evaluation Metric**: Accuracy on test set
+- **Algorithm**: Logistic Regression  
+- **Evaluation Metric**: Accuracy on test set  
 - **Test Accuracy**: `57.89%`
 
 ---
@@ -55,7 +56,7 @@ Textual data was cleaned and normalized using the following NLP techniques:
 
 ## 💬 Sentiment Labels
 
-- **Positive**
+- **Positive**  
 - **Negative**
 
 (*Neutral tweets were not labeled in this dataset*)
@@ -71,10 +72,10 @@ This project currently runs as a standalone Jupyter Notebook and has **not been 
 ## 📌 Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-````
 
+```bash
+git clone https://github.com/yugmint/sentiment_analysis_twitter.git
+````
 
 2. Open the notebook:
 
@@ -93,9 +94,10 @@ jupyter notebook covid_twitter_sentiment_analysis.ipynb
 ## 📬 Contact
 
 **Yugendra Salunke**
-Data Scientist | [Email](mailto:yugendra0511@gmail.com)
+Data Scientist
+📧 [yugendra0511@gmail.com](mailto:yugendra0511@gmail.com)
 📞 +91-8109079427
-[LinkedIn](https://www.linkedin.com/in/yugendra-salunke/) | [Portfolio](https://github.com/yugmint)
+[LinkedIn](https://www.linkedin.com/in/yugendra-salunke/) | [GitHub Portfolio](https://github.com/yugmint)
 
 ---
 
@@ -105,12 +107,13 @@ Thanks to **Kaggle** for the COVID-19 tweet dataset.
 
 ---
 
-## 📌 Future Enhancements
+## 🔮 Future Enhancements
 
 * Use more advanced models (e.g., BERT, LSTM)
-* Expand to multilingual sentiment
-* Deploy using Streamlit or Flask for real-time analysis
+* Expand to multilingual sentiment analysis
+* Deploy using Streamlit or Flask for real-time, interactive analysis
 
 ```
 
 
+```
