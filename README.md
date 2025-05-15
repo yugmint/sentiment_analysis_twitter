@@ -1,6 +1,5 @@
 
-
-```markdown
+markdown
 # 🦠 COVID-19 Twitter Sentiment Analysis
 
 This project explores public sentiment surrounding the emergence of a new COVID-19 strain using Twitter data. With rising concern over rapid public reactions—such as panic buying or misinformation—the goal is to leverage Natural Language Processing (NLP) techniques to analyze real-time sentiment expressed on social media, helping health authorities make informed decisions.
